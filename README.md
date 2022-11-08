@@ -1,8 +1,8 @@
-# ✨ 알린의 `우아한테크코스 4기` 기록용 레포지토리
+# 알린의 `우아한테크코스 4기` 기록용 레포지토리
 
-### 🌠 [알린의 Github](https://github.com/ozragwort)
+### [알린의 Github](https://github.com/ozragwort)
 
-## ❤ Precourse
+## Precourse
 
 |  Project   |           Period            |                                       Repository                                        |
 |:----------:|:---------------------------:|:---------------------------------------------------------------------------------------:|
@@ -13,7 +13,7 @@
 
 <br/>
 
-## 🧡 Level 1 (자바와 친해지기)
+## Level 1 (자바와 친해지기)
 
 |    Project    |          Period           |                               Repository                               |                          Pull Request & Review                           |
 |:-------------:|:-------------------------:|:----------------------------------------------------------------------:|:------------------------------------------------------------------------:|
@@ -28,7 +28,7 @@
 
 <br/>
 
-## 💛 Level 2 (스프링과 친해지기)
+## Level 2 (스프링과 친해지기)
 
 |      Project       |          Period           |                                Repository                                 |                            Pull Request & Review                            |
 |:------------------:|:-------------------------:|:-------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
@@ -43,29 +43,28 @@
 
 <br/>
 
-## 💚 Level 3 (팀 프로젝트 - 레벨로그)
+## Level 3 (팀 프로젝트 - 레벨로그)
 
 > 👉 [GitHub 바로가기](https://github.com/woowacourse-teams/2022-levellog)
 
-|   Sprint    |           Period            |                                                     Learning Log                                                      |                                                                              Demo Day Video                                                                               |
-|:-----------:|:---------------------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|   1차 스프린트   | `2022-06-28` ~ `2022-07-08` |    [1차 스프린트 버전](https://github.com/woowacourse-teams/2022-levellog/tree/9dcc5badb40133a84e57ec0a6396887bc4149a72)     |                                                       [demo day video](https://www.youtube.com/watch?v=-WfwFTYKa90)                                                       |
-|   2차 스프린트   | `2022-07-09` ~ `2022-07-22` |    [2차 스프린트 버전](https://github.com/woowacourse-teams/2022-levellog/tree/1d62d3596ab5013596b1fc40de6bce65c21b0be6)     |                                                       [demo day video](https://www.youtube.com/watch?v=yH1d5MF6s54)                                                       |
-|   3차 스프린트   | `2022-07-23` ~ `2022-08-05` | [3차 스프린트 버전(1.1.1)](https://github.com/woowacourse-teams/2022-levellog/tree/f5833e680efa1f9bfd88e763e358282fe01ce6f8) |                                                       [demo day video](https://www.youtube.com/watch?v=5-6levr8Nxw)                                                       |
-|   4차 스프린트   | `2022-08-06` ~ `2022-08-18` | [4차 스프린트 버전(1.2.0)](https://github.com/woowacourse-teams/2022-levellog/tree/625b6c193b0801a0d6ee58bce605a63a0867542a) |                                                       [demo day video](https://www.youtube.com/watch?v=r1vOel1zDn8)                                                       |
-| 서비스 출시 스프린트 | `2022-08-19` ~ `2022-08-30` | [4차 스프린트 버전(1.3.0)](https://github.com/woowacourse-teams/2022-levellog/tree/c7abbb5a59247747672acb2ff3f63fc2dfe1da2b) |                                                                                실서비스를 위한 기간                                                                                |
+|   Sprint    |           Period            |                                                     Learning Log                                                      |                        Demo Day Video                         |
+|:-----------:|:---------------------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------:|
+|   1차 스프린트   | `2022-06-28` ~ `2022-07-08` |    [1차 스프린트 버전](https://github.com/woowacourse-teams/2022-levellog/tree/9dcc5badb40133a84e57ec0a6396887bc4149a72)     | [demo day video](https://www.youtube.com/watch?v=-WfwFTYKa90) |
+|   2차 스프린트   | `2022-07-09` ~ `2022-07-22` |    [2차 스프린트 버전](https://github.com/woowacourse-teams/2022-levellog/tree/1d62d3596ab5013596b1fc40de6bce65c21b0be6)     | [demo day video](https://www.youtube.com/watch?v=yH1d5MF6s54) |
+|   3차 스프린트   | `2022-07-23` ~ `2022-08-05` | [3차 스프린트 버전(1.1.1)](https://github.com/woowacourse-teams/2022-levellog/tree/f5833e680efa1f9bfd88e763e358282fe01ce6f8) | [demo day video](https://www.youtube.com/watch?v=5-6levr8Nxw) |
+|   4차 스프린트   | `2022-08-06` ~ `2022-08-18` | [4차 스프린트 버전(1.2.0)](https://github.com/woowacourse-teams/2022-levellog/tree/625b6c193b0801a0d6ee58bce605a63a0867542a) | [demo day video](https://www.youtube.com/watch?v=r1vOel1zDn8) |
+| 서비스 출시 스프린트 | `2022-08-19` ~ `2022-08-30` | [4차 스프린트 버전(1.3.0)](https://github.com/woowacourse-teams/2022-levellog/tree/c7abbb5a59247747672acb2ff3f63fc2dfe1da2b) |                        실서비스를 위한 준비 기간                         |
 
 
 <br/>
 
-## 💙 Level 4 (리팩터링 및 고도화)
+## Level 4 (리팩터링 및 고도화)
 
 > 프로젝트
 
 | Sprint  |           Period           |                                                     Learning Log                                                      |   Demo Day Video   |
 |:-------:|:--------------------------:|:---------------------------------------------------------------------------------------------------------------------:|:------------------:|
 | 5차 스프린트 |`2022-08-30` ~ `2022-09-23` | [5차 스프린트 버전(1.4.3)](https://github.com/woowacourse-teams/2022-levellog/tree/a9603a63c62801356b068c2a15b78fc86d4013ad) | [demo day video]() |
-| 6차 스프린트 |`2022-09-26` ~ `2022-10-21` |                                                    [6차 스프린트 버전]()                                                     | [demo day video]() |
 
 <br/>
 
@@ -76,10 +75,11 @@
 |     톰캣 구현     | `2022-08-30` ~ `2022-09-13` | [repository](https://github.com/OzRagwort/jwp-dashboard-http/tree/ozragwort) |
 | @MVC 프레임워크 구현 | `2022-09-16` ~ `2022-09-29` | [repository](https://github.com/OzRagwort/jwp-dashboard-mvc/tree/ozragwort)  |
 | JDBC 라이브러리 구현 | `2022-10-04` ~ `2022-10-14` | [repository](https://github.com/ozragwort/jwp-dashboard-jdbc/tree/ozragwort) |
+| 레거시 코드 리팩터링 | `2022-10-24` ~ `2022-11-04`  | [repository](https://github.com/OzRagwort/jwp-refactoring/tree/ozragwort) |
 
 <br/>
 
-## 💜 글쓰기 미션
+## 글쓰기 미션
 
 > 👉 [GitHub 바로가기](https://github.com/OzRagwort/woowa-writing-4/tree/ozragwort)
 
@@ -88,10 +88,11 @@
 |      우아한테크코스 한 달 생활기      | `Sprint1` | [repository](https://github.com/OzRagwort/woowa-writing-4/blob/ozragwort/Level1.md) | [pull request](https://github.com/woowacourse/woowa-writing-4/pull/13)  |
 | 우아한테크코스에서 찾은 나만의 효과적인 공부법 | `Sprint2` | [repository](https://github.com/OzRagwort/woowa-writing-4/blob/ozragwort/Level2.md) | [pull request](https://github.com/woowacourse/woowa-writing-4/pull/190) |
 |     팀 프로젝트가 나에게 남긴 것      | `Sprint3` | [repository](https://github.com/OzRagwort/woowa-writing-4/blob/ozragwort/Level3.md) | [pull request](https://github.com/woowacourse/woowa-writing-4/pull/319) |
+|     내가 꿈꾸는 프로그래머로서의 삶      | `Sprint4` | [repository](https://github.com/OzRagwort/woowa-writing-4/blob/level4/Level4.md) | [pull request](https://github.com/woowacourse/woowa-writing-4/pull/382) |
 
 <br/>
 
-## 🤎 테코톡(알린의 암호)
+## 테코톡(알린의 암호)
 
 > 👉 [영상보기](https://www.youtube.com/watch?v=UJDB6e8s1Fg)
 
